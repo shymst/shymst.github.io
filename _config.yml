@@ -1,0 +1,6 @@
+title: Shuhei Yamashita
+description: 
+theme: jekyll-theme-minimal
+
+exclude:
+  - README.md
