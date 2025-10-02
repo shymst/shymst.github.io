@@ -1,3 +1,6 @@
+# Affiliation
+- Research and Development, Japanese company
+
 # Education
 - 2022 - 2024: Department of General Systems Studies, The University of Tokyo (M.S. degree)
 - 2019 - 2022: College of Arts and Science, The University of Tokyo (B.S. degree)
